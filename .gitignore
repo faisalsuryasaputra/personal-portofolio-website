@@ -1,0 +1,20 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+/node_modules
+
+# Build outputs & caches
+/dist
+/dist-ssr
+.vite
+
+# Vercel
+.vercel
+
+# Editor & OS files
+.DS_Store
+*.local
+.env*
