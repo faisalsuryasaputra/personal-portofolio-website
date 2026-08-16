@@ -51,8 +51,8 @@ Designed and customized for **Faisal Surya Saputra** — Multidisciplinary Infor
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/faisalsuryasaputra/personal-website-portofolio.git
-   cd personal-website-portofolio
+   git clone https://github.com/faisalsuryasaputra/personal-portofolio-website.git
+   cd personal-portofolio-website
    ```
 
 2. **Install dependencies:**
